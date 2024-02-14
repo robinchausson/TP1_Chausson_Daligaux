@@ -1,2 +1,4 @@
 Daligaux Raphael
 Chausson Robin
+
+Nous avons tout simplement changer le fichier de branche. C'est pour cela qu'il n'apparait plus dans la branche master.
